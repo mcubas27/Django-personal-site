@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.env
+.env_prod
+machenv
+*~
+
+# SQLite database files
+
+*.sqlite3
+.DS_Store
